@@ -1,0 +1,6 @@
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\bin\Debug\Database1.dacpac
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\bin\Debug\Database1.dll
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\bin\Debug\Database1.pdb
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\obj\Debug\Database1.dll
+E:\SqlTraning\LabTask\LabTask13\Database1\Database1\obj\Debug\Database1.pdb
